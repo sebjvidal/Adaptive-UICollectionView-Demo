@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Adaptive-UICollectionView-Demo
 //
-//  Created by Seb Vidal on 27/02/2024.
+//  Created by Seb Vidal on 26/02/2024.
 //
 
 import UIKit
